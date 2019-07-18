@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    color: black;
+    background-image: url(/dynamic-web-project/form/src/images/form-bg.jpg);
+    background-size: cover;
+}
+
+form {
+    padding-top: 7px;
+}
+
+.buttons {
+    padding: 2%;
+    align-self: auto;
+}
+
+.required {
+    content: "*";
+}
